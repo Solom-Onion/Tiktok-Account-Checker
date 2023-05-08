@@ -1,6 +1,12 @@
 # Tiktok Account Checker
 The tool used to check Tiktok session cookies on the Solomon service
 
+### TODO:
+- [x] Upload source that was implemented into Solomon 
+- [ ] Add Tor session requests for the chrome-driver
+- [ ] Improve speeds
+- [ ] Make fully request based
+
 ## Getting Started
 ### Prerequisites
 Before you can build and run the file, you'll need to have the following:
